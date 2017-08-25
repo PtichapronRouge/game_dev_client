@@ -8,6 +8,7 @@
 
 
 #include "headers/statestack.hpp"
+#include "headers/resourceholder.hpp"
 
 //! Classe principale du client
 /*! Contient la boucle principale et la boucle de gestion

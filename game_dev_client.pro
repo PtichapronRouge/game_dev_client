@@ -22,5 +22,6 @@ HEADERS +=  headers/statestack.hpp \
     headers/state.hpp \
     headers/stateidentifiers.hpp \
     headers/application.hpp \
-    headers/initstate.hpp
+    headers/initstate.hpp \
+    headers/resourceholder.hpp
 
